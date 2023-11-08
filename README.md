@@ -10,8 +10,8 @@ Installation:
 3) run the following in an anaconda prompt:
        pip install -r requirements.txt
 
-4) copy slide files into the folder:
-     proten stain files need to end with "PROTEIN STAIN.xlsx"
+4) copy input files into the folder. you will need at leas one of each below:
+     proten stain files for normalization.  Theese need to end with "PROTEIN STAIN.xlsx"
      antibody files need to end with " <antibody_name>.xlsx", e.g. "... VEGFR2.xlsx"
      files grouping samples for plotting need to end with "GROUP.xlsx"
    
